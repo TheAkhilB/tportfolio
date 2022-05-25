@@ -1,0 +1,9 @@
+<b>Welcome!</b><br/>
+My name is B Akhil Kumar and I am a Reseach Associate and Data Science Enthusiast<br/>
+For more about me, check 'about.txt'<br/>
+<hr/>
+Nobody in this world is perfect at what they do. So please don't be too hard on yourself. Hakuna Matata :)<br/>
+If you are familiar with this sort of terminal, you are welcome to use the commands, otherwise you can just click those links.<br/>
+For a list of commands, type '<a href="#" class="helpcmd" onclick="clickCmd('help')">help</a>'<br/>
+<br/>
+If you want to mess with this terminal yourself, <a href="https://github.com/littlebigbug/portfolio-web-terminal">You can grab a copy of the source code from the github repository</a>.
